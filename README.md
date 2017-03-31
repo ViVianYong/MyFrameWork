@@ -1,4 +1,4 @@
-MyFrameWork
-==========
-
-This is my frame work by mvc design model.
+Git study
+========================
+Git is a version control system.
+Git is free software.
