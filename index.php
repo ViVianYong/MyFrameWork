@@ -4,7 +4,7 @@ $arr = array(
                 array('name' => 'ygsz','age' => 15),
                 array('name' => 'gggges','age'  => 20)
         );
-$newArr = arraySort($arr,'name');
+$newArr = arraySort($arr,'name','desc');
 var_dump($newArr);
 
 /**
